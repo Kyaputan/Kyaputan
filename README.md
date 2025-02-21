@@ -28,7 +28,6 @@
 
 ### ติดต่อง่าย ๆ  
 - อีเมล: singkhet1@gmail.com
-- หรือส่งข้อความมาคุยกันทาง GitHub ได้เลย!  
 
 ---
 
@@ -58,6 +57,5 @@ I’m diving into:
 
 ### How to Reach Me  
 - Email: singkhet1@gmail.com 
-- Or drop me a message on GitHub anytime!  
 
 ---
