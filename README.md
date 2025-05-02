@@ -143,7 +143,7 @@ mindmap
       Autonomous drones
       Smart navigation
     end
-
+```
 
 </div>
 
