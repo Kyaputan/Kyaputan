@@ -47,9 +47,9 @@ class Captain:
         self.favorite_quote = "The best way to predict the future is to create it."
 
     def introduce(self):
-        return f"Hi, my pronouns are {self.name}}."
+        return f"Hi, my pronouns are {self.name}."
                f"My goal is: {self.life_goal}." 
-               f"Favorite quote:{self.favorite_quote}."
+               f"Favorite quote: {self.favorite_quote}."
 ```
 
 ---
