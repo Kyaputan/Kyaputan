@@ -162,14 +162,6 @@ mindmap
 
 </div>
 
-<div align="center">
-  
-# 🏆 **ACHIEVEMENTS** 🏆
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=kyaputan&theme=radical&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
 ---
 
 <div align="center">
