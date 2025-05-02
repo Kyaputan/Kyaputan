@@ -170,14 +170,54 @@ mindmap
 ---
 
 <div align="center">
-  
-## 📈 **GitHub Contribution Activity** 📈
-![GitHub Activity](https://github-readme-stats.vercel.app/api/wakatime?username=kyaputan&label=Activity&style=flat-square)
+
+# 🤖 **Robot in Action** 🤖
+![Robot GIF](https://media.giphy.com/media/xT1XGBf3uVZlFAq00A/giphy.gif)
 
 </div>
 
 ---
+<div align="center">
 
+# 💻 **Coding in Progress** 💻
+![Coding GIF](https://media.giphy.com/media/xT5LMXj9lA0PeyIHU8/giphy.gif)
+
+</div>
+
+
+---
+<div align="center">
+
+# 🤖 **AI in Action** 🤖
+![AI GIF](https://media.giphy.com/media/6tP1xh68ObxlS/giphy.gif)
+
+</div>
+
+---
+<div align="center">
+
+# ⏳ **Loading...** ⏳
+![Loading GIF](https://media.giphy.com/media/xT1R9S42ugR5szgztW/giphy.gif)
+
+</div>
+
+---
+<div align="center">
+
+# 🚀 **Launch to New Heights** 🚀
+![Rocket Launch](https://media.giphy.com/media/5GoVLqeAOo6PK/giphy.gif)
+
+</div>
+
+---
+<div align="center">
+
+# 💡 **Creative Ideas in Motion** 💡
+![Creative GIF](https://media.giphy.com/media/3o7qE6EpiRYHtk0cOG/giphy.gif)
+
+</div>
+
+---
 <div align="center">
 
 # 👨‍🚀 **THANK YOU FOR VISITING!** 👨‍🚀
