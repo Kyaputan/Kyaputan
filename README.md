@@ -127,22 +127,19 @@ mindmap
       Build helper robot
       Advanced sensors
       Natural language processing
-    end
     subgraph Safe Route App
       Snake detection
       Wildlife warning
       GPS tracking
-    end
     subgraph AI Articles
       Practical applications
       Educational content
       Community workshops
-    end
     subgraph Deep RL
       Self-driving
       Autonomous drones
       Smart navigation
-    end
+    
 ```
 
 </div>
