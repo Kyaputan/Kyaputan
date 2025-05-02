@@ -77,7 +77,7 @@ class Captain:
   
 [![Email](https://img.shields.io/badge/Email-singkhet1@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:singkhet1@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-@kyaputan-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kyaputan)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Captain-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kyaputan)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Captain-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rachata-singkhet-20bb601b0/)
 
 </div>
 
