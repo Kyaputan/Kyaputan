@@ -25,17 +25,6 @@ class Captain:
         return "สวัสดีครับทุกคน! ยินดีที่ได้รู้จักนะครับ! 👋"
 ```
 
-### 🔥 สิ่งที่ฉันชอบทำ
-
-<table>
-  <tr>
-    <td align="center"><img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="100px"><br /><b>🏠 ระบบบ้านอัจฉริยะ</b></td>
-    <td align="center"><img src="https://media.giphy.com/media/3o7TKUM3IgJBX2as9O/giphy.gif" width="100px"><br /><b>🌍 AI & Computer Vision</b></td>
-    <td align="center"><img src="https://media.giphy.com/media/5xaOcLGvzHxDKjufnLW/giphy.gif" width="100px"><br /><b>🤖 หุ่นยนต์</b></td>
-    <td align="center"><img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="100px"><br /><b>🐍 Python Programming</b></td>
-  </tr>
-</table>
-
 ### 💻 เทคโนโลยีที่ฉันใช้
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
@@ -71,8 +60,8 @@ class Captain:
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kyaputan&show_icons=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyaputan&layout=compact&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kyaputan&show_icons=true&theme=radical&count_private=true&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyaputan&layout=compact&theme=radical&hide_border=true" />
 </div>
 
 ## 🎯 เป้าหมายในอนาคต
@@ -96,7 +85,5 @@ class Captain:
 <div align="center">
   
 ### 🙏 ขอบคุณที่แวะมาเยี่ยมชม! มาร่วมสร้างโลกไฮเทคไปด้วยกัน!
-
-![Snake Game](https://github.com/kyaputan/kyaputan/raw/output/github-contribution-grid-snake.svg)
 
 </div>
