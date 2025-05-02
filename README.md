@@ -171,9 +171,8 @@ mindmap
 
 <div align="center">
   
-# 🎵 **เพลงที่กำลังฟัง** 🎵
-
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=kyaputan&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true)](https://spotify-github-profile.vercel.app/api/view?uid=kyaputan&redirect=true)
+## 📈 **GitHub Contribution Activity** 📈
+![GitHub Activity](https://github-readme-stats.vercel.app/api/wakatime?username=kyaputan&label=Activity&style=flat-square)
 
 </div>
 
