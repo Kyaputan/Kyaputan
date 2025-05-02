@@ -149,9 +149,7 @@ mindmap
 [![Email](https://img.shields.io/badge/Email-singkhet1@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:singkhet1@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-@kyaputan-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kyaputan)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rachata_Singkhet-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rachata-singkhet-20bb601b0/)
-[![Twitter](https://img.shields.io/badge/Twitter-@kyaputan-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/kyaputan)
-[![YouTube](https://img.shields.io/badge/YouTube-Captain_Tech-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/kyaputan)
-[![Discord](https://img.shields.io/badge/Discord-Captain%231234-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/captain)
+
 
 </div>
 
