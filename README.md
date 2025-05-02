@@ -62,7 +62,7 @@ const captain = {
     <th style="text-align: center;">Database & Backend Technologies</th>
     <th style="text-align: center;">Web Frameworks & Libraries</th>
   </tr>
-  <tr>
+  <tr align="center">
     <td style="text-align: center;"><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python" /></td>
     <td style="text-align: center;"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" /></td>
     <td style="text-align: center;"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" /></td>
