@@ -123,23 +123,27 @@ const captain = {
 ```mermaid
 mindmap
   root((CAPTAIN))
-    1)Home Robot
+    subgraph Home Robot
       Build helper robot
       Advanced sensors
       Natural language processing
-    2)Safe Route App
+    end
+    subgraph Safe Route App
       Snake detection
       Wildlife warning
       GPS tracking
-    3)AI Articles
+    end
+    subgraph AI Articles
       Practical applications
       Educational content
       Community workshops
-    4)Deep RL
+    end
+    subgraph Deep RL
       Self-driving
       Autonomous drones
       Smart navigation
-```
+    end
+
 
 </div>
 
