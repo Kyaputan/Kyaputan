@@ -68,19 +68,19 @@ const captain = {
     <td style="text-align: center;"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" /></td>
     <td style="text-align: center;"><img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" /></td>
   </tr>
-  <tr>
+  <tr align="center">
     <td style="text-align: center;"><img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL" /></td>
     <td style="text-align: center;"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" /></td>
     <td style="text-align: center;"><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" /></td>
     <td style="text-align: center;"><img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" /></td>
   </tr>
-  <tr>
+  <tr align="center">
     <td style="text-align: center;"><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" /></td>
     <td style="text-align: center;"><img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras" /></td>
     <td style="text-align: center;"><img src="https://img.shields.io/badge/phpMyAdmin-6C4F7C?style=for-the-badge&logo=phpmyadmin&logoColor=white" alt="phpMyAdmin" /></td>
     <td style="text-align: center;"><img src="https://img.shields.io/badge/Fiber-00ADD8?style=for-the-badge&logo=fiber&logoColor=white" alt="Fiber" /></td>
   </tr>
-  <tr>
+  <tr align="center">
     <td style="text-align: center;"><img src="https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Golang" /></td>
     <td style="text-align: center;"><img src="https://img.shields.io/badge/Scikit-learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn" /></td>
     <td style="text-align: center;"><img src="https://img.shields.io/badge/MQTT-3C5280?style=for-the-badge&logo=eclipse-mosquitto&logoColor=white" alt="MQTT" /></td>
