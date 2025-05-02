@@ -30,21 +30,26 @@
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> **จากใจของกัปตัน...**
 
-```javascript
-const captain = {
-    pronouns: "He" | "Him",
-    code: ["Python", "JavaScript", "GO", "Arduino", "HTML/CSS"],
-    technologies: {
-        AI: ["TensorFlow", "PyTorch", "OpenCV", "Deep Learning"],
-        robotics: ["Raspberry Pi", "Arduino"],
-        smartHome: ["Home Assistant", "MQTT", "ESP32"],
-        frontend: ["React", "Bootstrap"],
-        backend: ["Flask", "Django", "Node", "Express"],
-        databases: ["MongoDB", "MySQL"],
-    },
-    lifeGoal: "Combine AI, robotics, and smart systems to improve human lives",
-    favoriteQuote: "The best way to predict the future is to create it."
-};
+```Python
+class Captain:
+    def __init__(self):
+        self.name = "Captain"
+        self.code = ["Python", "JavaScript", "GO", "Arduino", "HTML/CSS"]
+        self.technologies = {
+            "AI": ["TensorFlow", "PyTorch", "OpenCV", "Deep Learning"],
+            "robotics": ["Raspberry Pi", "Arduino"],
+            "smartHome": ["Home Assistant", "MQTT", "ESP32"],
+            "frontend": ["React", "Bootstrap"],
+            "backend": ["Flask", "Django", "Node", "Express"],
+            "databases": ["MongoDB", "MySQL"],
+        }
+        self.life_goal = "Combine AI, robotics, and smart systems to improve human lives"
+        self.favorite_quote = "The best way to predict the future is to create it."
+
+    def introduce(self):
+        return f"Hi, my pronouns are {self.name}}."
+               f"My goal is: {self.life_goal}." 
+               f"Favorite quote:{self.favorite_quote}."
 ```
 
 ---
@@ -105,8 +110,6 @@ const captain = {
 <a href="https://github.com/kyaputan/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyaputan&layout=compact&theme=radical&hide_border=true&langs_count=8&card_width=320" />
 </a>
-
-![Metrics](https://metrics.lecoq.io/kyaputan?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&notable=1&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&notable.from=organization&notable.repositories=false&notable.indepth=false&notable.types=commit&config.timezone=Asia%2FBangkok)
 
 </div>
 
