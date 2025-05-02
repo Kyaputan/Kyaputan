@@ -33,17 +33,15 @@
 ```javascript
 const captain = {
     pronouns: "He" | "Him",
-    code: ["Python", "JavaScript", "C++", "Arduino", "HTML/CSS"],
+    code: ["Python", "JavaScript", "GO", "Arduino", "HTML/CSS"],
     technologies: {
         AI: ["TensorFlow", "PyTorch", "OpenCV", "Deep Learning"],
-        robotics: ["Raspberry Pi", "Arduino", "ROS"],
-        smartHome: ["Home Assistant", "MQTT", "Zigbee", "ESP32"],
-        frontend: ["React", "Vue", "Bootstrap"],
+        robotics: ["Raspberry Pi", "Arduino"],
+        smartHome: ["Home Assistant", "MQTT", "ESP32"],
+        frontend: ["React", "Bootstrap"],
         backend: ["Flask", "Django", "Node", "Express"],
-        databases: ["MongoDB", "MySQL", "SQLite"],
-        deploy: ["Docker", "AWS", "Heroku", "Netlify"]
+        databases: ["MongoDB", "MySQL"],
     },
-    currentProject: "Training AI to detect dangerous animals in Thailand 🐍",
     lifeGoal: "Combine AI, robotics, and smart systems to improve human lives",
     favoriteQuote: "The best way to predict the future is to create it."
 };
