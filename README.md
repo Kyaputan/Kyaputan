@@ -2,13 +2,12 @@
   
 # ⚡️ KYAPUTAN | THE CAPTAIN ⚡️
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F70000&center=true&vCenter=true&width=600&lines=AI+%26+Robotics+Enthusiast+%F0%9F%A4%96;Python+Developer+%F0%9F%90%8D;Smart+Home+Engineer+%F0%9F%8F%A0;Future+Tech+Creator+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F70000&center=true&vCenter=true&width=600&lines=AI+%26+Robotics+%F0%9F%A4%96;Python+Developer+%F0%9F%90%8D;Smart+Home+Engineer+%F0%9F%8F%A0;Future+Tech+Creator+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
 
 ![Profile Views](https://komarev.com/ghpvc/?username=kyaputan&style=for-the-badge&color=ff0000)
 [![GitHub followers](https://img.shields.io/github/followers/kyaputan?style=for-the-badge&logo=github&color=blueviolet)](https://github.com/kyaputan)
-[![Twitter Follow](https://img.shields.io/twitter/follow/kyaputan?style=for-the-badge&logo=twitter&color=blue)](https://twitter.com/kyaputan)
 
 </div>
 
