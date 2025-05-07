@@ -116,36 +116,6 @@ class Captain:
 
 <div align="center">
 
-# 🚀 **FUTURE AMBITIONS** 🚀
-
-```mermaid
-mindmap
-  root((CAPTAIN))
-    subgraph Home Robot
-      Build helper robot
-      Advanced sensors
-      Natural language processing
-    subgraph Safe Route App
-      Snake detection
-      Wildlife warning
-      GPS tracking
-    subgraph AI Articles
-      Practical applications
-      Educational content
-      Community workshops
-    subgraph Deep RL
-      Self-driving
-      Autonomous drones
-      Smart navigation
-    
-```
-
-</div>
-
----
-
-<div align="center">
-
 # 📞 **CONNECT WITH ME** 📞
 
 [![Email](https://img.shields.io/badge/Email-singkhet1@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:singkhet1@gmail.com)
