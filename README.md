@@ -36,7 +36,7 @@ Hi, I’m Captain 👨‍💻
 class Captain:
     def __init__(self):
         self.name = "Captain"
-        self.code = ["Python", "JavaScript", "GO", "Arduino", "HTML/CSS"]
+        self.code = ["Python", "JavaScript", "TypeScript", "GO", "Arduino", "HTML/CSS"]
         self.technologies = {
             "AI": ["TensorFlow", "PyTorch", "OpenCV", "Deep Learning"],
             "robotics": ["Raspberry Pi", "Arduino"],
@@ -76,7 +76,7 @@ class Captain:
     <td style="text-align: center;"><img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" /></td>
   </tr>
   <tr align="center">
-    <td style="text-align: center;"><img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL" /></td>
+    <td style="text-align: center;"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /></td>
     <td style="text-align: center;"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" /></td>
     <td style="text-align: center;"><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" /></td>
     <td style="text-align: center;"><img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" /></td>
