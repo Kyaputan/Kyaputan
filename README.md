@@ -22,7 +22,11 @@
 > ***"The future belongs to those who build it with their own code."*** 💯
 
 Hi, I’m Captain 👨‍💻
-An AI Engineer & Python Developer passionate about building intelligent systems that bridge the gap between AI, IoT, and real-world applications.
+- 👨‍💻 AI Engineer & Python Developer
+- 🤖 Passionate about AI, IoT, and Automation
+- 👁️ Focused on Computer Vision & NLP
+- 📦 Skilled with Docker, FastAPI, Node.js, n8n
+- 🌱 Exploring LLMs, RAG pipelines, and edge AI
 
  > ***"The future belongs to those who build it with their own code."***
 
