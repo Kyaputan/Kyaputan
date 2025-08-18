@@ -19,7 +19,7 @@
 
 </div>
 
-> ***"The future belongs to those who build it with their own code."*** 💯
+> ***"Innovation begins where curiosity meets code."*** 💯
 
 Hi, I’m Captain 👨‍💻
 - 👨‍💻 AI Engineer & Python Developer
@@ -28,7 +28,7 @@ Hi, I’m Captain 👨‍💻
 - 📦 Skilled with Docker, FastAPI, Node.js, n8n
 - 🌱 Exploring LLMs, RAG pipelines, and edge AI
 
- > ***"The future belongs to those who build it with their own code."***
+ > ***"Building tomorrow, one line of code at a time."***
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> **From my mine...**
 
