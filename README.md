@@ -15,19 +15,18 @@
 
 <div align="center">
   
-## <img src="https://media4.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" width="50"> **สวัสดีชาวโลก! I'M CAPTAIN** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
+## <img src="https://media4.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" width="50"> **🚀 About Me** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
 
 </div>
 
 > ***"The future belongs to those who build it with their own code."*** 💯
 
-<div align="center">
-  <img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="25%">
-  <img src="https://media.giphy.com/media/XreQmk7ETCak0/giphy.gif" width="25%">
-  <img src="https://media.giphy.com/media/13HBDT4QSTpveU/giphy.gif" width="25%">
-</div>
+Hi, I’m Captain 👨‍💻
+An AI Engineer & Python Developer passionate about building intelligent systems that bridge the gap between AI, IoT, and real-world applications.
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> **จากใจของกัปตัน...**
+ > ***"The future belongs to those who build it with their own code."***
+
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> **From my mine...**
 
 ```Python
 class Captain:
