@@ -85,13 +85,13 @@ class Captain:
     <td><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000" alt="JavaScript" /></td>
     <td><img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras" /></td>
     <td><img src="https://img.shields.io/badge/phpMyAdmin-6C4F7C?style=for-the-badge&logo=phpmyadmin&logoColor=white" alt="phpMyAdmin" /></td>
-    <td><img src="https://img.shields.io/badge/LangChain-1E3D3D?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain" /></td>
+    <td><img src="https://img.shields.io/badge/Ultralytics-1A275F?style=for-the-badge&logo=yolo&logoColor=white" alt="Ultralytics" /></td>
   </tr>
   <tr align="center">
     <td><img src="https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Golang" /></td>
     <td><img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn" /></td>
     <td><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" /></td>
-    <td><img src="https://img.shields.io/badge/Ultralytics-19A974?style=for-the-badge&logo=yolo&logoColor=white" alt="Ultralytics" /></td>
+    <td><img src="https://img.shields.io/badge/LangChain-1E3D3D?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain" /></td>
   </tr>
 </table>
 
