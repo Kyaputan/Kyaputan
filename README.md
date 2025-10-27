@@ -85,7 +85,7 @@ class Captain:
     <td><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000" alt="JavaScript" /></td>
     <td><img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras" /></td>
     <td><img src="https://img.shields.io/badge/phpMyAdmin-6C4F7C?style=for-the-badge&logo=phpmyadmin&logoColor=white" alt="phpMyAdmin" /></td>
-    <td><img src="https://img.shields.io/badge/LangChain-3B82F6?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain" /></td>
+    <td><img src="https://img.shields.io/badge/LangChain-1E3D3D?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain" /></td>
   </tr>
   <tr align="center">
     <td><img src="https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Golang" /></td>
