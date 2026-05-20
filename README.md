@@ -18,6 +18,26 @@
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/> &nbsp;`whoami`
 
+<h1 align="center">Hi there, I'm Captain ⚡ (kyaputan) 👋</h1>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=AI+Engineer+%E2%9A%A1;Python+Developer+%F0%9F%90%8D;IoT+%26+Edge+AI+Enthusiast+%F0%9F%A4%96" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
+  <i>"The best way to predict the future is to CREATE it. 🚀"</i>
+</p>
+
+<div align="center">
+  🟢 <b>Status:</b> Open to collaborate | Always building something cool
+</div>
+
+<br>
+
+### 👨‍💻 `whoami`
+
 ```python
 class Captain:
     def __init__(self):
