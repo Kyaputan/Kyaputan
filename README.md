@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=KYAPUTAN&fontSize=90&fontColor=fff&animation=twinkling&fontAlignY=55&desc=The%20Captain%20⚡%20AI%20%7C%20Robotics%20%7C%20Code&descAlignY=75&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=250&section=header&text=KYAPUTAN&fontSize=90&fontColor=fff&animation=twinkling&fontAlignY=55&desc=The%20Captain%20⚡%20AI%20%7C%20Robotics%20%7C%20Code&descAlignY=75&descSize=20" width="100%"/>
 
 <div align="center">
 
@@ -71,25 +71,58 @@ class Captain:
 
 <div align="center">
 
-**Languages**
+### 💻 Languages
 
 [![My Skills](https://skillicons.dev/icons?i=python,typescript,javascript,go,html,css&theme=dark&perline=6)](https://skillicons.dev)
 
-**AI / ML / Vision**
+---
 
-[![My Skills](https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&theme=dark&perline=6)](https://skillicons.dev)
+### 🤖 AI / ML / Vision
 
-**Backend & Databases**
+[![My Skills](https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn&theme=dark&perline=6)](https://skillicons.dev)
+
+![YOLO](https://img.shields.io/badge/YOLO-Ultralytics-1A275F?style=for-the-badge&logo=yolo&logoColor=white&labelColor=0D1117)
+![HuggingFace](https://img.shields.io/badge/🤗_HuggingFace-Transformers-FFD21E?style=for-the-badge&labelColor=0D1117&color=FFD21E)
+
+---
+
+### 🧠 AI Agents & Orchestration
+
+![LangChain](https://img.shields.io/badge/LangChain-Framework-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white&labelColor=0D1117)
+![LangGraph](https://img.shields.io/badge/LangGraph-Agent_Graphs-7B2FBE?style=for-the-badge&logo=graphql&logoColor=white&labelColor=0D1117)
+![VectorDB](https://img.shields.io/badge/Vector_DB-RAG_Pipelines-FF3C3C?style=for-the-badge&logo=databricks&logoColor=white&labelColor=0D1117)
+![MCP](https://img.shields.io/badge/MCP-Model_Context_Protocol-CC785C?style=for-the-badge&logo=anthropic&logoColor=white&labelColor=0D1117)
+
+---
+
+### ⚙️ Backend, Automation & Messaging
 
 [![My Skills](https://skillicons.dev/icons?i=fastapi,flask,django,nodejs,express,mongodb,mysql,postgres&theme=dark&perline=8)](https://skillicons.dev)
 
-**Frontend**
+![n8n](https://img.shields.io/badge/n8n-Workflow_Automation-EA4B71?style=for-the-badge&logo=n8n&logoColor=white&labelColor=0D1117)
+![Node-RED](https://img.shields.io/badge/Node--RED-Flow_Based-8F0000?style=for-the-badge&logo=nodered&logoColor=white&labelColor=0D1117)
+![MQTT](https://img.shields.io/badge/MQTT-IoT_Messaging-660066?style=for-the-badge&logo=eclipse-mosquitto&logoColor=white&labelColor=0D1117)
 
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,bootstrap&theme=dark&perline=6)](https://skillicons.dev)
+---
 
-**DevOps & IoT**
+### 🎨 Frontend
 
-[![My Skills](https://skillicons.dev/icons?i=docker,raspberrypi,arduino&theme=dark&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,bootstrap,tailwind&theme=dark&perline=6)](https://skillicons.dev)
+
+---
+
+### 🔌 DevOps & Edge / IoT
+
+[![My Skills](https://skillicons.dev/icons?i=docker,raspberrypi,arduino,esp32&theme=dark&perline=6)](https://skillicons.dev)
+
+---
+
+### ⚡ AI CLI Weapons
+
+![Claude Code](https://img.shields.io/badge/Claude_Code-Anthropic_CLI-CC785C?style=for-the-badge&logo=anthropic&logoColor=white&labelColor=0D1117)
+![Gemini CLI](https://img.shields.io/badge/Gemini_CLI-Google_AI-4285F4?style=for-the-badge&logo=google&logoColor=white&labelColor=0D1117)
+![Codex](https://img.shields.io/badge/OpenAI_Codex-CLI-412991?style=for-the-badge&logo=openai&logoColor=white&labelColor=0D1117)
+![Hermes](https://img.shields.io/badge/Hermes-NousResearch-FF6B35?style=for-the-badge&logo=llama&logoColor=white&labelColor=0D1117)
 
 </div>
 
