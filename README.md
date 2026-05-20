@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=250&section=header&text=KYAPUTAN&fontSize=90&fontColor=fff&animation=twinkling&fontAlignY=55&desc=The%20Captain%20⚡%20AI%20%7C%20Robotics%20%7C%20Code&descAlignY=75&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=KYAPUTAN&fontSize=90&fontColor=fff&animation=twinkling&fontAlignY=55&desc=The%20Captain%20⚡%20AI%20%7C%20Robotics%20%7C%20Code&descAlignY=75&descSize=20" width="100%"/>
 
 <div align="center">
 
