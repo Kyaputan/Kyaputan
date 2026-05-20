@@ -134,15 +134,6 @@ class Captain:
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kyaputan&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly&background=0D1117&ring=FF3C3C&fire=FF3C3C&currStreakLabel=FF3C3C)](https://git.io/streak-stats)
 
-<br/>
-
-<a href="https://github.com/kyaputan">
-  <img height=200 src="https://github-readme-stats.vercel.app/api?username=kyaputan&show_icons=true&theme=radical&hide_border=true&count_private=true&rank_icon=github&bg_color=0D1117&title_color=FF3C3C&icon_color=FF3C3C" />
-</a>
-<a href="https://github.com/kyaputan">
-  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyaputan&layout=compact&theme=radical&hide_border=true&langs_count=10&card_width=320&bg_color=0D1117&title_color=FF3C3C" />
-</a>
-
 </div>
 
 ---
@@ -172,18 +163,6 @@ class Captain:
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
-
-</div>
-
----
-
-## 📌 Featured Projects
-
-<div align="center">
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kyaputan&repo=kyaputan&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF3C3C&icon_color=7B2FBE)](https://github.com/kyaputan)
-
-> 🚧 *More projects dropping soon... stay tuned* 👀
 
 </div>
 
